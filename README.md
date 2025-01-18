@@ -28,5 +28,5 @@ To run the app locally, follow the steps below:
 ### 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/toilet-locator.git
+git clone https://github.com/XXOriginalXX/toilet-locator.git
 cd toilet-locator
