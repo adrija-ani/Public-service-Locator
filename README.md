@@ -1,4 +1,4 @@
-# Public Service Locator Web App
+# Toilet Locator Web App
 
 ## Overview
 
